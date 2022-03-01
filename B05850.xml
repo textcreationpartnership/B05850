@@ -1,0 +1,1447 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mother Shiptons prophesies: with three and XX. more, all most terrible and wonderfull, predicting strange alterations to befall this climate of England. Viz. 1. Of K. Richard the III ... 23. A prophesie of David, Cardinall of France, &amp;c.</title>
+            <author>Shipton, Mother (Ursula)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05850</idno>
+            <idno type="STC">Wing S3448</idno>
+            <idno type="STC">ESTC R184117</idno>
+            <idno type="EEBO-CITATION">52612352</idno>
+            <idno type="OCLC">ocm 52612352</idno>
+            <idno type="VID">179656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179656)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2794:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mother Shiptons prophesies: with three and XX. more, all most terrible and wonderfull, predicting strange alterations to befall this climate of England. Viz. 1. Of K. Richard the III ... 23. A prophesie of David, Cardinall of France, &amp;c.</title>
+                  <author>Shipton, Mother (Ursula)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. P. for Fr. Coles and are to besold [sic] at his shop at the signe of the Lambe in the Old-Baily, neare the Sessions house,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a woodcut of Mother Shipton, Cardinal Wolsey, King Henry VIII and Mr. Saltmarsh on the title page.</note>
+                  <note>Imperfect: cropped, torn, and tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179656:1"/>
+            <pb facs="tcp:179656:1" rendition="simple:additions"/>
+            <p>Mother <hi>Shiptons</hi> PROPHESIES: WITH
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ree and XX. more, all moſt terrible and wonderfull, Predicting ſtrange alterations to befall this Climate of ENGLAND.
+<list>
+                  <head>Viz.</head>
+                  <item>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Of K. Richard the III.</item>
+                  <item>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mr. Truſwell Recorder of Lincolne.</item>
+                  <item>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lillies Predictions.</item>
+                  <item>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> A Propheſie alluding to the Scots laſt inva<g ref="char:EOLhyphen"/>ſion.</item>
+                  <item>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ignatius his Propheſie.</item>
+                  <item>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mrs. Whites Propheſie.</item>
+                  <item>7 Old Sybilla's Propheſie.</item>
+                  <item>8 Merlin's Propheſies.</item>
+                  <item>10 Mr. Brightmans.</item>
+                  <item>9 Old Otwell Bins.</item>
+                  <item>11 <hi>Paulus Grebnerus</hi> Pro.</item>
+                  <item>12 A Propheſie in old Eng<g ref="char:EOLhyphen"/>liſh meeter.</item>
+                  <item>13 Another ancient Proph.</item>
+                  <item>14 An other ſhort, but pithy.</item>
+                  <item>15 Another very obſcure.</item>
+                  <item>16 Saltmarſh his Predict.</item>
+                  <item>17 A ſtrange Propheſie of an old Welſh-woman.</item>
+                  <item>18 St. Bedes Propheſie.</item>
+                  <item>19 William Ambroſe.</item>
+                  <item>20 Tods Propheſie.</item>
+                  <item>21 Thomas of Aſtledowne.</item>
+                  <item>22 Saunders his Prediction.</item>
+                  <item>23 A Propheſie of <hi>David,</hi> Cardinall of
+<hi>France,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <figure>
+               <figure>
+                  <figDesc>depiction of Cardinal Wolsey.</figDesc>
+                  <head>Wolſey.</head>
+               </figure>
+               <figure>
+                  <figDesc>depiction of Mother Shipton</figDesc>
+                  <head>Shipton.</head>
+               </figure>
+               <figure>
+                  <figDesc>depiction of King Henry VIII</figDesc>
+                  <head>K. Henry 8.</head>
+               </figure>
+               <figure>
+                  <figDesc>depiction of Mr Saltmarsh</figDesc>
+                  <head>Mr. Saltmarſh.</head>
+               </figure>
+            </figure>
+            <p>LONDON, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inted by
+<hi>T.P.</hi> for <hi>Fr. Coles,</hi> and are to be ſold at his Shop at the ſigne of the Lambe in the Old-Ba<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly, neare the Seſſions houſe, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:179656:2"/>
+            <p>
+               <note place="margin">Note that this Propheſie was never exactly printed before.</note>WHen ſhe heard that King <hi>Henry</hi> the
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Wolſey</hi> ſhould be at <hi>Yorke</hi> ſhe ſaid that Cardinall <hi>Wolſey</hi> ſhou<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> never come to <hi>Yorke,</hi> which the King and the Cardinall hearing, being ang<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſent the Duke of <hi>Suffolk</hi> and the L. <hi>Darcy</hi> to her, who came with their <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſguiſed to the Kings houſe near <hi>York,</hi> where leaving their men they went
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mr. <hi>Beſly</hi> in York, and deſired him to goe with them to Mother <hi>Shiptons</hi> houſe, where whe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they came they knocked at the doore, ſhe ſaid, Come in Mr. <hi>Beſly,</hi> and thoſe honorable Lor<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with you, and Mr.
+<hi>Beſly</hi> would have put in the Lords before him; but ſhee ſaid come in M<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Beſly</hi> you know the way but they doe not. This they thought ſtrange that ſhe ſhould kno<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them and never ſaw them; then they went into the houſe, where there was a great Fire, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they dranke and were very merry. Mother <hi>Shipton</hi> ſaid the Duke, if you knew what we ca<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> about, you would not bid us ſo welcome, ſhee ſaid, the Meſſenger ſhould not be hange<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Mother <hi>Shipton</hi> ſaid the Duke, you ſaid the Cardinall ſhould never ſee <hi>Yorke;</hi> yea ſaid ſhe,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid he might ſee
+<hi>Yorke</hi> but never come at it. But ſaid the Duke, when he comes to
+<hi>Yorke</hi> tho<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhalt be burned; wee ſhall ſee that ſaid ſhe, and plucking her Handkercher off her head, ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> threw it into the fire, and it would not burne, then ſhe tooke her ſtaffe and turned it into th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fire, and it would not burne, then ſhe tooke and put it on againe. Then ſaid the Duke, wha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meane you by this? She replyed, if this had burned J might have burned, Mothe<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Shipton</hi> quoth the Duke, what thinke you of me? My Lord ſaid ſhe, the time wi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> come
+<note n="a" place="margin">The Duke was afterward Beheaded.</note> you will be as low as I am, and that is a low one indeed.</p>
+            <p>My Lord <hi>Piercy</hi> ſaid, and what ſay you of me? My Lord ſaid ſhee, Shooe you<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Horſe in the quick and you ſhall do well but your
+<note n="b" place="margin">This proved true, for hee roſe in rebellion in the North; and by not flying when he might, hee was taken and beheaded in <hi>York,</hi> where his body was buried, and his Head was ſtolne away and carried into <hi>France,</hi> tem<g ref="char:EOLhyphen"/>pore <hi>Eliz.</hi> Reg.</note> bo<g ref="char:EOLunhyphen"/>dy will be buried in <hi>York</hi> Pavement, and your Head ſha<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be ſtolne from the Barre and carried into <hi>France;</hi> At whic<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they all laughed ſaying, that would be a great lop betwee<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Head and the Body. Then ſaid the Lord
+<hi>Darcy,</hi> an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what thinke you of me? She ſaid, you have made a grea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gunne, ſhoot it off for it will never doe you any good; you are going to Warre, you will paine many a man, but kill
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one: So they went away.</p>
+            <p>Not long after the Cardinall came to <hi>Cawood</hi> and going to the top of the Tower, He asked where ſtands <hi>York</hi> and how farre it was thither; And ſaid that one ſaid, that he ſhould never ſee
+<hi>Yorke:</hi> nay ſaid one, ſhe ſaid you might ſee Yorke, but never come at it. He vowed to burne <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er when he came to York. Then they ſhewed him York, and told him it was but Eight miles <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ence, he ſaid that he would ſoone be there; but being ſent for by the King, he dyed in his way to <hi>London</hi> at <hi>Leiceſter</hi> of a Laske. And <hi>Shiptons</hi> wife ſaid to Mr. <hi>Beſly</hi> yonder is a
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ne
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>all built for the Cardinall in the Minſter of gold, Pearle and precious Stones, goe and pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt one of the Pillers to King
+<hi>Henry</hi> and he did ſo.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r. <hi>Beſly</hi> ſeeing theſe things fall out as ſhe had foretold, deſired her to tell him ſome more of <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Propheſies, Mr. <hi>Beſly</hi> ſaid ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, before that
+<note n="c" place="margin">This came
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> paſſe; for
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ty ſteeple
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Yorke was blowne downe with a tempeſt, and Owſebridge was broken down with a great flood; and
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at they did in repairing the Bridge in the day time with the ſtone of the ſteeple, fell down in the nigh<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ill they remembring this Propheſie, laid the higheſt ſtone of the ſteeple for foundation of the bridg<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then the worke ſtood. And by this was partly verified another of Mother <hi>Shipton:</hi> Propheſies,
+<hi>viz.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at her Maid ſhould live to drive her Cow over <hi>Trinity</hi> ſteeple.</note>
+               <hi>Owſe-bridge</hi> and <hi>Trinity</hi> Church meet the<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſhall build on the Day, and it ſhall fall in the Night, untill they get the highe<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſtone of <hi>Trinity</hi>-ſteeple to be the loweſt ſtone of <hi>Owſe</hi> Bridge.</p>
+            <p>
+               <pb n="3" facs="tcp:179656:2"/>That the day will come when the North ſhall rue it wondrous ſore, but the South ſhall rue it for evermore; when Hares kindle on cold hearth
+<note n="d" place="margin">Suppoſed to be meant by ſuppreſſion of Abbias &amp; other Religious houſes, and at the Lord
+<hi>Wil: How<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ds</hi> houſe at Naworth, a Hare came and kindled in his Kitchin upon his hearth.</note> ſtones, and lads ſhall marry Ladies and bring them home, then ſhall you have a yeare of pining hunger, and then a dearth without Corne, a woful! day will be ſeene in <hi>England,</hi> a King and a Queene.</p>
+            <p>The firſt comming of the
+<note n="e" place="margin">This was ful<g ref="char:EOLhyphen"/>filled in K, <hi>Iam<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> comming to; for ſuch multitude of People ſtood at Holgate bar to behold him, as that to avoid the preſſe, he was forced to ride another way</note> King of <hi>Scots</hi> ſhal be at Holgate Town, but he ſhall not come in through the Barre, and when the King
+<note n="f" place="margin">When K. <hi>Iames</hi> was at London, his children were <hi>at Edenbrough,</hi> preparing to come into England.</note> of the North ſhall be at <hi>London,</hi> his tayle ſhall be at Edinborough.</p>
+            <p>After this ſhall water
+<note n="g" place="margin">This is verified by the con<g ref="char:EOLhyphen"/>ducting of water into Yorke ſtreets through bored Elmes? and the Conduit houſe hath a Wind-mill on the top this drawes up the water</note> come over
+<hi>Owſe</hi>-bridge, and a Wind-mill ſhall be ſet on a tower; and an Elme-tree ſhall lye at every mans doore, and at that time Women ſhall weare great hats and great bands.</p>
+            <p>And when there is a Lord Major
+<note n="h" place="margin">A Lord Major whoſe houſe was in the Miniſter yard in York, was killed with three ſtabs.</note> at Yorke, let him beware of a ſtab.</p>
+            <p>When two Knights
+<note n="i" place="margin">Sir <hi>T. Wentworth,</hi> and Sir
+<hi>John-Savill,</hi> in chooſing Knights for the ſhire, in the Caſtle yard at Yorke, did ſo fall out, that they were never well reconciled.</note> ſhall fall out in the Caſtle-yard, they ſhall never bee kindly all their lives after.</p>
+            <p>When all Colton
+<note n="k" place="margin">Colton hagge in her time was Woodland ground full of Trees, which bore Corne 7. yeares, and the 7<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>h yeare after that was the yere of the comming in of the <hi>Scots,</hi> and their taking of Newcaſtle.</note> hag hath borne crops of Corne, ſeven yeares after you ſhall heare newes, there ſhall two Judges
+<note n="l" place="margin">In the year 1616. two Iudges of Aſ<g ref="char:EOLhyphen"/>ſize went out at a gate in Yorke, where never any Iudges were knowne to goe out before.</note> goe in and out at Walmgate barre.</p>
+            <q>
+               <l>Then Warres ſhall begin in the Spring,</l>
+               <l>Much woe to England it ſhall bring:</l>
+               <l>Then ſhall the Ladies cry well away,</l>
+               <l>That ever we liv'd to ſee this day.</l>
+            </q>
+            <p>Then beſt for them that have the leaſt, and worſt for them that have the moſt; You ſhall not know of the warte over night yet you ſhall have it in the morning: and when it comes it ſhal laſt three yeares; between Cardon and Aire ſhall be great warfare, when all the world is loſt, it ſhall bee called Chriſts Croft. When the battell begins, it ſhall be where
+<note n="m" place="margin">Neare Leice<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er where <hi>Richard</hi> the 3 was ſlaine in battell, there Col <hi>Haſting<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was one of the firſt in arms, endeavouring to ſettle the commiſsion of Array in op<g ref="char:EOLhyphen"/>poſition to others that were ſetling the Militia.</note> Crook-back
+<hi>Ri<g ref="char:EOLhyphen"/>chard</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egan his fray.</p>
+            <p>They ſhall ſay to warfare for our King, for half a Crowne a day, but ſtirre not, (they will ſay) to warfare for your King on paine of hanging, but ſtirre not; for he that goes to com<g ref="char:EOLhyphen"/>plaine, ſhall not come back againe. The time will come when England ſhall tremble and quake for feare of a dead man that ſhal be heard to ſpeak: Then will the Dragon give the Bull a great ſnap, &amp; when the one is down they will go to
+<hi>London</hi> town: Then there will be a great battell between England and Scotland, and they will be pacified for a time, and when they come to Brammamore they fight, and are againe pacified for a time, then there will be a great battell betweene England and Scotland at
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tockmore: Then will a Raven ſit on the
+<note n="n" place="margin">It is to be no<g ref="char:EOLhyphen"/>ted and admired, that this Croſs <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hiptons</hi> dayes was a tall ſtone Croſs, which ever ſince hath been by degrees ſinking into the ground, and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is ſunke ſo low, that a Raven may fit upon the top of it, and reach with her bill to the ground.</note> Croſs, and drinke aſ much <pb facs="tcp:179656:3"/>bloud of Nobles as of the Co<g ref="char:cmbAbbrStroke">̄</g>mons, then woe is me, for <hi>London</hi> ſhalbe deſtroyed for ever
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>There will come a woman with one Eye, and ſhe ſhall tread in many mens bloud to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> knee; and a man leaning on a ſtaffe by her, ſhe ſhall ſay to him, what art thou? And he ſh<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſay, J am the King of Scots, and ſhe ſhall ſay, goe with me to my houſe, for there are th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Knights, and he will goe with her, and ſtay there three dayes and three nights, then will En<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>land be loſt, and they will cry twice a day, <hi>England is loſt.</hi> Then there will be three Knigh<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in Petergate in <hi>Yorke,</hi> and the one ſhall not know of the other;. here ſhall be a Child bo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in <hi>Pomfret</hi> with three thumbs, and thoſe 3 Knights will give him three horſes
+<note n="o" place="margin">There is a Child not many yeares ſince born at <hi>Pomfret,</hi> with three Thumbs.</note> to hold while they winne England, and all Noble blood ſhall be gone but one; and they ſhall carry him to Sheriffe-<hi>Huttons</hi> Caſtle, ſix miles from York, and he ſhall dye ther, and they ſhall chuſe there an Earle in the field, and hanging their Horſes on a thorne, will rue the time that ever they were borne to ſee ſo much blood ſhed. Then they will come to Yorke to be<g ref="char:EOLhyphen"/>ſiege it, and they ſhall keep them out three dayes and three nights, and a penny loafe ſhall be within the Bar at half a Crown, and without the bar at a penny; and they will ſweare if they will not yeeld, to blow up the Town-walls; Then they will let them in, and they will hang up the Major, Sheriffs and Aldermen, and they will goe into <hi>Crouch</hi> Church, there will three Knights goe in, and but one come out againe, and hee will cauſe Proclamation to be made, that any man may take houſe, tower, or bower for 12. yeares, and while the world endureth there ſhal never be warfare againe, nor any more Kings or Queenes; but the Kingdom ſhall be governed by three Lords, and then York ſhall be London. And after this ſhall bee a wh<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> harveſt of Corne gotten in by women. Then ſhall be in the North, that one woman ſhall <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y unto another; Mother J have ſeene a Man to day, and for one man there ſhall be a thouſand women: There ſhall be a man ſitting on St. <hi>James</hi> Church-hill weeping his fill; And after that a Ship come ſayling up the
+<hi>Thames</hi> till it come againſt London, and the Mr. of the Ship ſhall weepe, and the Marriners ſhall aske him why he weepeth, being he hath made ſo good a voyage, and he ſhall ſay; Ah what a goodly City this was, none in the world comparable to it, and now there is left ſcarce any houſe that can let us have drinke for our money.</p>
+            <q>
+               <l>Vnhappy he that lives to ſee thoſe dayes,</l>
+               <l>But happy are the dead <hi>Shipton</hi> wife ſayes:</l>
+               <l>In the world old age this woman did fore-tell,</l>
+               <l>Strange things ſhal hap, which in our time have f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</l>
+            </q>
+         </div>
+         <div type="prophecy">
+            <head>A Prediction of K. <hi>Richard</hi> the Third.</head>
+            <p>IN the Raigne of K <hi>Richard</hi> the 3. his Majeſty with his army lay at <hi>Leiceſter</hi> the night before the bat<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll of <hi>Boſworth</hi> field was fought. It hapned in the Morning as the King rode through the ſouthgate, a poore blind man (by profeſſion a Whel-wright) ſate begging, and hearing of his approach, ſaid; That if the Moone changed twice that day, having by her ordinary courſe changed in the morning, K. <hi>Ricard</hi> ſhould loſe his C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owne and be ſlaine; and riding over the brige his left foot ſtruck upon a ſtump of wood, which the old man hearing, ſaid; Even ſo ſhall his head at his returne back hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on the ſame place, which ſo c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to pa<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e: And a Noble man that carried the
+<gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> for his colours revolted from <hi>K Richard,</hi> whereby he loſt that day his Life, Crowne and Kingdom; which verified the preſagees of that poore blind old man.</p>
+         </div>
+         <div type="prophecy">
+            <head>Mr. <hi>Truſwals</hi> Recorder of Lincolne.</head>
+            <p>The Lilly ſhall remaine in a merry world, and he ſhal be moved againſt the ſeed of the Lyon, and he
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtand on one ſide amongſt thrones of his Kingdome and Country. And there ſhall come the Son of
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hearing three wild Beaſts in his Armes, which Kingdome is the Lord of the Moone, which is to be dread throughout all the world with a company of People he ſhall paſſ many waters, &amp; ſhall come to the L<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Lyon, looking for helpe, with the beaſts of his owne Country. And in that year there ſhall come an Eagle out of the Eaſt, and his wings ſpread with the beames of the ſonne of man and that yeare ſhal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>royed Caſte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon <hi>Thams,</hi> and there ſhal be great feares over the whole world; and in a part of the Land there ſhall be great battles amongſt many kingdomes: This day ſhall be the bloody field, and the Lilly ſhal
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Crowne, and therewith ſhall be crowned the Son of man. And in th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ty yeare many Batte<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <pb facs="tcp:179656:3"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> world ſhall be ſtoopen, but the Son of man with the Eagle ſhall be pref<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed, and there ſhall be an univerſall Peace over the whole world: Then ſhall the ſonne of man receive a marvellous token, and there ſhall be great plenty of all manner of Fruits, and then ſhall he goe to the Land of the Cro<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e.</p>
+         </div>
+         <div type="prophecy">
+            <head>Mr. <hi>Lilly</hi> in the 59 and 60 Page of his Aſtronomicall Predictions, fore-tels.</head>
+            <p>THat the <hi>Scots</hi> intend to invade us againe, but ſhall not ſet a foot ſo farre as Yorke, in a hoſtile manner: The Child is now borne that ſhall ſee that a moſt flouriſhing City: If they come they muſt not expect ſo fair an Enemy as <hi>Cromwell,</hi> nor ſo good Quarter as lately they <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound;
+<hi>Jockey, Iemmy,</hi> and <hi>Moggie,</hi> that the Soldiers muſt then to the Sword, fire, Fa<g ref="char:EOLhyphen"/>mine and deſtruction, following them to the walls and heart of <hi>Edenburgh</hi> it ſelfe.</p>
+         </div>
+         <div type="prophecy">
+            <head>A Propheſie of the Scots Invaſion.</head>
+            <l>WHen you have had hard work to doe,</l>
+            <l>And added Five to Forty two;</l>
+            <l>You ſhall perceive a goodly Play ſpoil,d,</l>
+            <l>And by unworthy Actors foil'd:</l>
+            <l>The Scaen, tanſpos'd the act confu'd,</l>
+            <l>The Poet ſhamefully abus'd.</l>
+            <l>The firſt intention of the Plot</l>
+            <l>By their confuſion's quite forgot,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them to Tragick acts deſign'd,</l>
+            <l>Who entred with a Comick mind.</l>
+            <l>Some perſonating double parts,</l>
+            <l>With double tongues and double hearts;</l>
+            <l>ſhall from one ſide to t' other run,</l>
+            <l>Till they are ſcorn'd of every one:</l>
+            <l>And by their meanes (when Peace ſeemes neare)</l>
+            <l>The troubles which did firſt appeare.</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Thirty nine prolong'd will<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g</l>
+            <l>Till Fifty two and fifty three;</l>
+            <l>And now what courſes will be tooke,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen thoſe years wheele about. Goe looke.</l>
+         </div>
+         <div type="prophecy">
+            <head>
+               <hi>Jgnatius</hi> his Propheſie.</head>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eighty eight be paſt, then thrive</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hou mayſt, till Thirty foure or five:</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that <hi>E</hi> is dead a <hi>Scot</hi>
+            </l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> governe there, and if a Plot</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ent him not, then ſure his ſway</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inue ſhall till many a day.</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ninth ſhall dye young, and the firſt</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>haps ſhall Reigne; but (oh) accurſt</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be the time when thou ſhalt ſee</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſixteen joyned Twenty three;</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then the Eagle ſhall have helpe,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to catch the Lyons whelpe,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urt him fore, except the ſame</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>red by the Maidens name.</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moneth of the ſame yeare,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conjoynes with
+<hi>Iupiter.</hi>
+            </l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> falſe Prophe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſhall ariſe,</l>
+            <l>
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>omer</hi> ſhall ſhew his prize.</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to much alteration</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pen in Religion;</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> truly; if then you ſee</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a Proteſtant to
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</l>
+         </div>
+         <div type="prophecy">
+            <head>Mrs. <hi>White</hi> a Welſhwoman, Propheſied as followes, on the Moneth of <hi>May.</hi>
+            </head>
+            <l>THe 25.th of this Moneth of <hi>May,</hi>
+            </l>
+            <l>Shall be a ſad diſaſtrous day;</l>
+            <l>And they that <hi>Charles</hi> his part doth take,</l>
+            <l>Shall dearly ſuffer for his ſake:</l>
+            <l>And many of his Friends ſhall fly</l>
+            <l>Like duſt before the Enemy.</l>
+            <l>But in the pleaſant Moneth of <hi>June,</hi>
+            </l>
+            <l>The Birds will ſing another tune;</l>
+            <l>A glorious ſplendor ſhall appeare,</l>
+            <l>And ſo protect our Soveraigne deare.</l>
+            <closer>
+               <signed>
+                  <hi>Dieu cathee whee Guenthelin White;</hi> aged 112. year<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+         <div type="prophecy">
+            <head>The Propheſie of old <hi>Sybilla.</hi>
+            </head>
+            <l>WHen <hi>Scotlands</hi> hundred and 9 unconquer'd king</l>
+            <l>The ſixteenth hundred Thirty and nine,</l>
+            <l>Into his age of thirty nine ſhall Reigne,</l>
+            <l>Then ſhall the Papall overthrow appear,</l>
+            <l>Which all the Arts of Europe ſhall admire;</l>
+            <l>For <hi>Scotland</hi> ſhall that bleſſed work c begin</l>
+            <l>Then ſhall the whore of Bable had here</l>
+            <l>Be baniſhe quite, which Biſhops did bring in.</l>
+            <l>Then thou brave <hi>England,</hi> which was led ſo blind,</l>
+            <l>By their perverſe Epiſcopall pride,</l>
+            <l>And <hi>Irelands</hi> ſhameleſſe ſuperſtitious ſinne</l>
+            <l>Shall be ſuppreſt, who cruelly have cryed?</l>
+            <l>So that, that ſacred Propheteſſe <hi>Sybilla,</hi>
+            </l>
+            <l>Shall ſhortly come to paſſe; ſhe tels <hi>Tom Milla.</hi>
+            </l>
+            <l>And <hi>Tom</hi> tels me, and I muſt tel't againe,</l>
+            <l>Throgh <hi>Scotland,</hi> England, Ireland, France. &amp; Spain:</l>
+         </div>
+         <div type="prophecy">
+            <head>
+               <hi>Merlins</hi> Propheſies.</head>
+            <l>ON Borcas wings then hither ſhall be borne,</l>
+            <l>Through <hi>Week</hi> o're Tweed, a Princely Vnicorn</l>
+            <l>Who brought into the world his owne farre Creaſt</l>
+            <l>A rampant Lyon figured on his breſt.</l>
+            <l>And to his armes <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ix Lyons more ſhall quarter</l>
+            <l>With ſix <hi>French</hi> flowers inviron'd with the Garter</l>
+            <l>Ioyning by fates unchangeable diſpoſe</l>
+            <l>The Northerne Thiſtle in the Southerne Roſe?</l>
+            <l>He ſhall the true Apoſtolick Faith maintaine</l>
+            <l>With pious zeale during his bleſſed Raigne.</l>
+            <l>That <hi>Line<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> was that <hi>London</hi> is and <hi>York</hi> ſhall bee,</l>
+            <l>Brave <hi>London</hi> prayes thoſe dayes ſhe ne're ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</l>
+         </div>
+         <div type="prophecy">
+            <pb facs="tcp:179656:4"/>
+            <head>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>Otwe<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> M. <hi>Smith,</hi> Vicar of
+<hi>Hudderfield</hi> 40. Yeares.</head>
+            <l>Then IAMES ſhall ſeeke a ſecond Crowne,</l>
+            <l>In pulling Pope and Papiſts downe,</l>
+            <l>But <hi>Iames</hi> ſhall vaniſh from their face</l>
+            <l>At halfe <hi>Eliz<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>beths</hi> Royall race.</l>
+            <l>Then uſing forreigne Policies,</l>
+            <l>Grudgings and diſcontents ariſe;</l>
+            <l>Yet ſhall they aſſemble at the ſeat</l>
+            <l>Of Parliament for a worke moſt great;</l>
+            <l>But ſtrange Opinions there ſhall ſow</l>
+            <l>Diſcentions that too high ſhall grow:</l>
+            <l>And <hi>Laodicea's</hi> Englands Church,</l>
+            <l>Of grace and beautie ſome ſhall lurch;</l>
+            <l>And Smiths of policy ſhall invent</l>
+            <l>To caſt new molds of Goverment.</l>
+            <l>While vulger Birds of weaker wing</l>
+            <l>Grow <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>out againſt their Eagle King;</l>
+            <l>Whoſe juſt integrous heart ſhall prove</l>
+            <l>The adamant of Supjects love.</l>
+            <l>Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n pride ſhall ſome in Priſon lock</l>
+            <l>And lop a head off on a block:</l>
+            <l>By honeſt power they ſhall bring downe</l>
+            <l>An aſpirer that aſſ'umed a Crowne;</l>
+            <l>That he whoſe power did Lawes contemn,</l>
+            <l>Might find a Grave no Diadem.</l>
+            <l>Some Comick ſcaenes ſhall then be acted</l>
+            <l>By vulgar Players much diſtracted;</l>
+            <l>The Goſpell from a Tub or tunne,</l>
+            <l>Shall preached by Mechanicks runne.</l>
+            <l>Petticoats ſhall in Pulpits preach,</l>
+            <l>And Women be allowed to teach:</l>
+            <l>And in thoſe gloomy dogged dayes</l>
+            <l>They ſhall tread off the Muſes bayes</l>
+            <l>Thus ſtrife and envy ſhall increaſe,</l>
+            <l>and Round beads ſhall diſturbe the Peace</l>
+            <l>Of Religion, while they it toſſe</l>
+            <l>In Blankets, and pull downe the Croſs.</l>
+            <l>The <hi>Browniſts</hi> ſhall no old Prayers brook</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall drowne the
+<hi>Service Booke;</hi>
+            </l>
+            <l>Then all men in thoſe times ſhall ſee</l>
+            <l>Great troubles and Calamity:</l>
+            <l>Then on the Iriſh bogs and heath</l>
+            <l>Many a man ſhall taſte of Death.</l>
+            <l>The ſoulders wages ſhall increaſe,</l>
+            <l>Till warres at laſt in Conqueſt ceaſe;</l>
+            <l>To ſuch as are good Land lords knowne,</l>
+            <l>In hoſtile times ſome love is ſhowne;</l>
+            <l>But for all ſuch as have great ſtore,</l>
+            <l>They are in leſſe ſafety then the Poore.</l>
+            <l>Then twenty pounds of coine in hand,</l>
+            <l>Is worth ſo much of yearly Land;</l>
+            <l>From <hi>Ireland</hi> then there ſhall come one</l>
+            <l>Muſt loſe his head upon a ſtone;</l>
+            <l>But when <hi>England</hi> ſhall ſwim in fl<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ds</l>
+            <l>Of plenty, and growe proud of goods;</l>
+            <l>Then from their <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pe they ſhall be waked,</l>
+            <l>To know themſelves both blind and naked;</l>
+            <l>Chriſts Church <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> know ſome miſer<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </l>
+         </div>
+         <div type="prophecy">
+            <head>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </head>
+            <l>WHen <hi>Englands</hi> Church growes <hi>Englands</hi> ſhame,</l>
+            <l>Full of luke-warmeneſs, glory vaine;</l>
+            <l>The worſt in works and outward forme,</l>
+            <l>And with contrary Factions torne.</l>
+            <l>When Romiſh Rights by reformation</l>
+            <l>ſhall be expell'd out of this Nation;</l>
+            <l>Lord Begger Biſhops then ſhal come</l>
+            <l>To ruine and be overthrowne.</l>
+            <l>The Prieſts ſhall be vile to each wight</l>
+            <l>Their downfall read with much delight;</l>
+            <l>For God will not the guiltleſſe hold,</l>
+            <l>That have been neither hot nor cold.</l>
+            <l>The <hi>Scotch</hi> Church ſhall be in condition,</l>
+            <l>
+               <hi>A</hi> Virgin free from ſuperſtition</l>
+            <l>They ſhall be joynd in Covenant,</l>
+            <l>Gainſt which the world ſhall boaſt and vaunt;</l>
+            <l>But <hi>Englands</hi> Church muſt feele the ſtorme,</l>
+            <l>untill ſhe truly her ſelfe Reforme;</l>
+            <l>Such hurly burly, and ſuch ſtirre,</l>
+            <l>No forme of church ſhall remaine in her;</l>
+            <l>But Reformation muſt take breth</l>
+            <l>From the Reigne of queene <hi>Ellzabeth.</hi>
+            </l>
+         </div>
+         <div type="prophecy">
+            <head>
+               <hi>Paulus Grebnerus</hi> his Propheſie, preſented
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Q. <hi>Elizabeth,</hi> anno
+1682. concerning thoſe tim<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </head>
+            <p>THat a Northern King ſhall Reigne, <hi>Charl<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Name, who ſhall take to wife
+<hi>Mary</hi> of the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>piſh Religion, whereupon he ſhall be a moſt unf<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nate Prince. Then the People of his Dominion
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> chuſe to themſelves another Co<g ref="char:cmbAbbrStroke">̄</g>mander for Gov<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nor,
+<hi>viz.</hi> an Earl, whoſe Government ſhall laſt 3.
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or thereabout. And afterwards the ſame people <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> chuſe another Comander (or Governor) <hi>viz.</hi> a
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not of the ſame Family, or Dignity; And after <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they ſhall chuſe none at all.</p>
+            <p>Then after him ſhall appeare the <hi>Cha<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſcending from <hi>Charles</hi> the firſt, and ſhall
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Fathers Kingdome wonderfull happily <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> beare Rule farre and neare; and ſhall be <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then
+<hi>Charles</hi> the Great.</p>
+         </div>
+         <div type="prophecy">
+            <head>A Propheſie very ancient in old Me<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>.</head>
+            <l>IN the ſame yeare that fully ſhall expi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </l>
+            <l>The ſixth great Wonder of the worlds
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>Then <hi>Tyder<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <note n="*" place="margin">
+                  <hi>i.e. Hen. Ed. Mar. Ph<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. Eli<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </note>HEMPE ſhall end I
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a read;</l>
+            <l>Then
+<note n="*" place="margin">After Q. <hi>Eliz. K. James<g ref="char:punc">▪</g>
+                  </hi>
+               </note>
+               <hi>E</hi> ſhall fall, and <hi>J</hi> ſhall ſtand in <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtead.</l>
+            <l>In the ſame yeare a great Plague ſhall
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>The which a Thouſand dayes it ſhall
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>At <hi>Maryes Maſſe</hi> a Court they hold,</l>
+            <l>The which in bloody Inke ſhall
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>There many a Plea ſhal paſs with
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>
+               <pb facs="tcp:179656:4"/> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> back againe appeare:</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all many a ba<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ell and brawle be</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a huge hoſt ſhall paſſe over the Sea;</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing a Peace but in this wiſe,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>C C.</hi> two
+<hi>L L.</hi> ſo long ſhall laſt two <hi>I I,</hi>
+            </l>
+         </div>
+         <div type="prophecy">
+            <head>Another.</head>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all
+<gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> be call'd the firſt of the Dice,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> ſhall beare up,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall
+<hi>England</hi> be <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Paradiſe;</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> and
+<gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> be ſet on ſide;</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> name of
+<gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> ſhall ſpring full wide;</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when
+<gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> and
+<gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> drive out
+<gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay <hi>England</hi> ſing well away:</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is all ſhent,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall be another Parliament.</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall up, and
+<gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> ſhall under,</l>
+            <l>Then ſhall <gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> beare the pri<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e,</l>
+            <l>And <gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> ſhall helpe thereto.</l>
+         </div>
+         <div type="prophecy">
+            <head>Another ſhort, but pithy.</head>
+            <l>IN Germany begins a Dance,</l>
+            <l>Which paſſeth through Italy, Spaine, and France</l>
+            <l>and to Ireland is a Leaper.</l>
+            <l>There the Dance lyeth at a ſtand,</l>
+            <l>Till it ventures o're into Scotland,</l>
+            <l>But England ſhall pay the Piper.</l>
+         </div>
+         <div type="prophecy">
+            <head>Another.</head>
+            <l>ENgland thy proper Native thee betraies,</l>
+            <l>Becauſe all nations hate thee and thy wayes,</l>
+            <l>Spaine doth undermine thee, France doth grow,</l>
+            <l>Wales threats, the Iriſh thee by ſnares doth awe.</l>
+            <l>Thy braveſt men do on a ſudden dye,</l>
+            <l>And thou thy ſelfe doeſt wholly ruin'd lye?</l>
+            <l>Yet ſeeſt it not, but under feigned Peace,</l>
+            <l>Doeſt thine owne miſery ſtill more increaſe.</l>
+         </div>
+         <div type="prophecy">
+            <head>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Saltmarſhes</hi> Predictions declared to his Excellency the Lord
+<hi>Fairfax,</hi> and the Councell of his Army, the Motives that occaſioned it; and the manner of his Death.</head>
+            <p>I being at his houſe at <hi>Yilford</hi> in Eſſex December
+4. 1647. told his Wife that he had received a Com<g ref="char:EOLhyphen"/>mand from God, to make known to the armys what the Lord had revealed unto him, The like he ſaid Sir
+<hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. M.</hi> Knight, a Member of the houſe of Co<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ns, as ſoone as he arrived at <hi>London</hi> The next day be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Lords day, he found ſome difficulty to procu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a Horſe, but after dinner he got one, and rid alone <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ards
+<hi>Windſor,</hi> but miſſing his way, lodged at night 7 miles ſhort, where he declared, that the great
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>full day of the Lord is neare, when all men ſhal be judged by Ieſus Chriſt, and then ſhall
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ctions of all men appeare, &amp;c. Early the next day <hi>Decemb.</hi> 6. he again miſſed his way
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> eſpying a houſe rid to it to demand his way, and there made known, That God was p<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed and draw the Saints to himſelf, with much more; after which he departed, and
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> came to <hi>Windſor;</hi> where Mr. <hi>A.</hi> an Adjutator ſaluted him, hee ſaid <hi>M. A.</hi> depart from th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> periſh with them; for the Lord hath revealed unto me that hee is angry with this army,
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> forſaken him; another a Captain asked him how he did? to whom he replyed, that
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God to ſay to him, becauſe he had alwaies been a <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> under ſpecious pretence. The <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> another Officer, he ſaid he could not own him, for he was for deſtruction, Then going to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> where many Officers were met in expectation of the Generall he told them, That hee
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to reveale the Lords command, that though God had done much for them, and by them, y<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and their councels becauſe they had forſaken him; That God would not proſper their <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, but deſtroy them by Diviſions amongſt themſelves, That formerly hee came like a Lambe,
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> had raiſed in him the ſpirit of a Lion, becauſe they ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſought to deſtroy the People of God.
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that he lookt like one diſtracted, and that he had been ſick and was not well recovered; to who<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that he had been ſick, but well in health then, and ſenſible of what he ſaid, and that ſhould be
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> time that ever he ſhould ſpeake to them. Afterwards he went to the Generall, not moving his hat and
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. That he had no command from God to honour him; that he had honoured him ſo much as he of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ded God in doting on his Perſon, and that God would no longer proſper him, &amp;c. Then going to the L.
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> asked him how he did? He without any reſpect anſwered him, That God was very angry with
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing the godly, and that the Armies falling from their firſt Principles, would occaſion their
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſtruction, &amp;c. After which he departed, and on <hi>Tueſday</hi> Decem. 7. he went again to the L. Gen. <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that he was ſorry to ſee ſuch obſtinacy in him, and wiſhed him to be mindfull of what God
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> unto him: Afterwards he tooke his leave of the army and ſaid, he had done his Errand, and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them never to ſee the army any more. On <hi>Wedneſday</hi> Decem. 8. he came to <hi>London</hi> and tooke <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> friends to whom he recommended his Wife. On <hi>Thurſday</hi> Decem. 9. he went from
+<hi>London</hi> to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at
+<hi>Yilford</hi> not ſick at all, and told his wife what he had done. On
+<hi>Friday</hi> Decem. 10. hee ſaid he
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> courſe, and muſt goe to his Father; In the afternoone he ſaid his Head
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and laid hi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Bed On <hi>Saturday</hi> Decemb. 11. hee was taken ſpee<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſſe, and <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut 4. or five of <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e clocke
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed</p>
+         </div>
+         <div type="prophecy">
+            <pb facs="tcp:179656:5"/>
+            <head>The <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </head>
+            <p>A ſtrange Propheſie of an old Welſh-woman lately deceaſed, found written in her Trunk <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhewing <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ruine of <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gland</hi> Caſtle, the <hi>Scots</hi> invaſion and deſtruction in the yeare 164<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the Scots ſhall the next yeare 1650. make another attempt to invade this Land, but aga<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> beaten; but after that the yeare following, they will come againe with farre more ſtrength and the<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> waſte and utterly undoe many; but afterward they ſhall find ſuch a terrible repulſe, that moſt of the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> overthrowne and vanquiſhed.</p>
+         </div>
+         <div type="prophecy">
+            <p>S<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaith, Sinne ſhall cauſe gaeat trouble in every Land, and right ſhall not raigne in his Inheri<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſins ſhall be upholden; Falſhood ſhall proudly ſtand, and black clouds of Ignorance ſtop the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of remembrance; Truth and Equity down ſhall be laid; for men
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>all their God forſak<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> give
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to miſgovernance, in heart great ſorrow then ſhall awake, for
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bt of falling of venge<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever worſe and worſe their life ſhall be, ſo that all Realmes ſhall ſpeake of thee, with death &amp; dea<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> every Country, God ſhal ſo puniſh this Nation with battels beyond ſea, they ſhalbe brought into deſper<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="prophecy">
+            <p>
+               <hi>William Ambroſe</hi> ſaith, Treaſon ſhall labour faſt with all her might to keepe Right out of the Land;
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lawes and Ordinances day and night, and no token of true love ſhall be found, ranting Gallant<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall puniſh all about, and then make a ſentence in juſtice of Law, and cauſe many one to ſta<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> great doubt, and after a curſed manner they ſhall ever draw, and againſt the Right they ſhall ever ma<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and they ſhall looſe their Heads ever among, and they that beare the Lanthorn ſhall lie in the mire, and People ſhall wade deepe in ſin; For the Paſtors of the Church ſhall reſt and ſleep in blindneſs and ſi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and have great Treaſures in their Cheſts, and be ſecret with Ladies and others, and ſport them in Adu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and ſay it is naturall, cauſing many to ſinne, and their audacity ſhall be great to cover the ſin withall,
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall lead the blind till both fall in the ditch, and many one ſhall goe wrong for lack of
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for where the foundation is not ſure, downe it goeth.</p>
+         </div>
+         <div type="prophecy">
+            <p>TO<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaith, The great ſhall ſupplant the Poore and pill them daily, and keepe them full low, and ſhall <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pell them daily to know Falſhood, which ſhall be called true and Right, and the great ſhall climbe <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all after their content to ſet aſide a Common-wealth. Wherefore you <hi>Saxons,</hi> think not thoug<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> time, that the <hi>Normans</hi> &amp; you both ſhalbe driven away, the <hi>Brutes</hi> of the firſt line ſhall enter ag<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, yee ſhall go from hence for your great ſinne; the Brutes were the firſt, and
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing in the Land, &amp; with them ſhall abide all that is true blood (the Brutes were driven
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and when they winne leaſt) ſo ſhall the <hi>Saxons.</hi> Then holy men deſired to know,
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ld begin, and what Battels ſhould be, and <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>w, who ſhould loſe and who ſhould w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>wered and ſaid</hi>] When all ſin is favoured without Correction, and Lords wed their
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God have no affection, when Prieſts and Lay people be all one in word and deed wi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en ſhall not care what they doe nor how they got their good, nor where, and Innocen<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wne ſhall weare; and this time of trouble continue ſhall forty yeares ere it be ended
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+            </p>
+         </div>
+         <div type="prophecy">
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>edowne</hi> ſaith, There ſhall be a deceitfull Parliament, in the which ſhall be ſhewed
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they can no longer keep in ſecret, which hath of long time been prevented; and there
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>verſies in Opinions, that the Realm ſhall be in foure parts, and with that voyce ſhall
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the World againſt us, to puniſh us for the great abhominable Hereſies and whoredo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oly Orders.</p>
+         </div>
+         <div type="prophecy">
+            <head>
+               <hi>Saunders</hi> Prediction for the yeare, 1659.</head>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the noting, That the 14. great Orbe in which the <hi>Moone</hi> and <hi>Leo</hi> have ruled, ſhall have its p<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And then begins the 15. great Orbe, in which <hi>Saturne</hi> and <hi>Virgo</hi> ſhall predominant; which
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſigne of the great Conjunction before the comming of Chriſt, which ſhall produce g<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the world, and principally concernes <hi>Mercurialiſts,</hi> who will then have more Rule in the wo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>der this there will be a King in England.</p>
+         </div>
+         <div type="prophecy">
+            <head>
+               <hi>Davids</hi> Propheſie, Cardinall in
+<hi>France.</hi>
+            </head>
+            <l>
+               <hi>CHarles</hi> mighty Monarch did the <hi>C</hi> begin</l>
+            <l>After whoſe Death Vſurping <hi>C</hi> came in;</l>
+            <l>By will &amp; force he ſome few years bore ſway,</l>
+            <l>Nothing but <hi>blood</hi> his fury could allay:</l>
+            <l>Alas this hundred and his <hi>crooked Race,</hi>
+            </l>
+            <l>Were like <hi>Uſurpers,</hi> turn'd out of the place</l>
+            <l>Of <hi>honour,</hi> as they well deſerv'd indeed.</l>
+            <l>And now the <hi>L.</hi> for fifty doth ſucceed,</l>
+            <l>Stout <hi>Neptun's</hi> left and by the <hi>Monk</hi> ſo bold</l>
+            <l>Who doth appeare this <hi>riddle</hi> to unfold.</l>
+            <l>
+               <hi>Right</hi> ſhall have <hi>Righ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> for in a little ſpace</l>
+            <l>
+               <hi>A hundred</hi> ſhall be of the <hi>hundred Race.</hi>
+            </l>
+            <l>The <hi>M<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>k</hi> will joyn (as appearance ſhows)</l>
+            <l>The <hi>Exil'd Thiſtle</hi> to the <hi>Happie Roſe.</hi>
+            </l>
+            <l>Who ſhall in Peace theſe Nations free fro<g ref="char:cmbAbbrStroke">̄</g> f<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </l>
+            <l>
+               <hi>Govern</hi> in ſafety for Three hundred year<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </l>
+         </div>
+         <trailer>FIN.</trailer>
+      </body>
+   </text>
+</TEI>
